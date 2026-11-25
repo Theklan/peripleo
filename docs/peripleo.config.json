@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus",
+      "name": "Euskal Herriko Historia 100 objektutan",
       "format": "LINKED_PLACES",
       "src": "./data/Peripleo_Data_1795604163.json",
       "attribution": "Euskal Wikilarien Kultura Elkartea"
