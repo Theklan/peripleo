@@ -1,5 +1,5 @@
 {
-"initial_bounds": [-3.5, 41.8, -0.7, 43.6]
+"initial_bounds": [-3.5, 41.8, -0.7, 43.6],
   "map_style": "./map-style-OSM.json",
   "data": [
     {
