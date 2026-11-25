@@ -1,12 +1,12 @@
 {
-  "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
+"initial_bounds": [-3.5, 41.8, -0.7, 43.6]
   "map_style": "./map-style-OSM.json",
   "data": [
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/VisitPlus-UK.lp.json",
-      "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
+      "src": "./data/Peripleo_Data_1795604163.json",
+      "attribution": "Euskal Wikilarien Kultura Elkartea"
     }
   ],
   "facets": [
